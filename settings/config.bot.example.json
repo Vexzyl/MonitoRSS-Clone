@@ -8,13 +8,13 @@
     "failedFeeds": true
   },
   "bot": {
-    "token": "",
+    "token": "ODcwODYzNDEwODA2NTI1OTcy.YQS8wA.4SzLv-ctIiODRtU1U0VKyI7blNM",
     "locale": "en-US",
     "enableCommands": true,
-    "prefix": "rss.",
+    "prefix": "%",
     "status": "online",
-    "activityType": "",
-    "activityName": "",
+    "activityType": "Reading",
+    "activityName": "anime news!",
     "streamActivityURL": "",
     "ownerIDs": [],
     "menuColor": 5285609,
